@@ -19,7 +19,6 @@ Passionate iOS development student deeply immersed in the Apple ecosystem, curre
 ## ⚒️ My Future Skills
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="48" height="48" alt="SwiftData" /></a>
-<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/ios-17-num/ios-17-num-96x96_2x.png" width="48" height="48" alt="iOS 17" /></a>
 <a href="https://developer.apple.com/documentation/coreml" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="48" height="48" alt="Core ML" /></a>
 <a href="https://developer.apple.com/mapkit/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/mapkit/mapkit-96x96_2x.png" width="48" height="48" alt="MapKit" /></a>
 <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" width="48" height="48" alt="WidgetKit" /></a>
