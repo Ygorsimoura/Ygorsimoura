@@ -14,6 +14,7 @@ Passionate iOS development student deeply immersed in the Apple ecosystem, curre
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" /></a>
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/ios-17-num/ios-17-num-96x96_2x.png" width="48" height="48" alt="iOS 17" /></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="48" height="48" alt="Xcode" /></a>
+<a href="URL_DO_LINK" target="_blank" rel="noreferrer"><img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="52" height="52" alt="Descrição Personalizada" /></a>
 
 ## ⚒️ My Future Skills
 
