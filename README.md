@@ -23,11 +23,6 @@ Currently pursuing a degree in Systems Analysis and Development, developing skil
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" alt="Git" />
 </a>
 
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
-</a>
-
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="48" height="48" alt="Figma" />
