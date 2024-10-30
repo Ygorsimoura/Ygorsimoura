@@ -1,33 +1,61 @@
-# Hi, I'm Ygor Carlos Simoura, an iOS Engineer
+# Hi, I'm Ygor Carlos Simoura
 
-Passionate iOS development student deeply immersed in the Apple ecosystem, currently participating in the 100DaysOfSwiftUI challenge to bolster my SwiftUI skills by working on real app projects.
+Currently pursuing a degree in Systems Analysis and Development, developing skills in various IT areas, including software development, databases, data analysis, and testing. I am passionate about technology and always seeking new challenges that allow me to apply my knowledge and continuously learn.
 
 🌍 I'm based in Brazil
 
 ✉️ You can contact me at [ygorsimoura01@gmail.com](mailto:ygorsimoura@icloud.com)
 
-⭕ I'm open to collaborating on Swift and SwiftUI Skills 
-
 ## 🛠️ My Current Skills
 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="48" height="48" alt="Swift" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" /></a>
-<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/ios-17-num/ios-17-num-96x96_2x.png" width="48" height="48" alt="iOS 17" /></a>
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="48" height="48" alt="Xcode" /></a>
-<a href="URL_DO_LINK" target="_blank" rel="noreferrer"><img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="52" height="52" alt="Descrição Personalizada" /></a>
+<!-- Swift -->
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="48" height="48" alt="Swift" />
+</a>
 
-## ⚒️ My Future Skills
+<!-- SwiftUI -->
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" />
+</a>
 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="48" height="48" alt="SwiftData" /></a>
-<a href="https://developer.apple.com/documentation/coreml" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="48" height="48" alt="Core ML" /></a>
-<a href="https://developer.apple.com/mapkit/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/mapkit/mapkit-96x96_2x.png" width="48" height="48" alt="MapKit" /></a>
-<a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" width="48" height="48" alt="WidgetKit" /></a>
-<a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" width="48" height="48" alt="RealityKit" /></a>
-<a href="https://developer.apple.com/documentation/arkit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" width="48" height="48" alt="ARKit" /></a>
-<a href="https://developer.apple.com/documentation/realitycomposer" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/reality-composer-pro/reality-composer-pro-96x96_2x.png" width="48" height="48" alt="Reality Composer Pro" /></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/visionos/images/unity.svg" width="48" height="48" alt="Unity" /></a>
-<a href="https://www.apple.com/apple-arcade/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/arcade/arcade-96x96_2x.png" width="48" height="48" alt="Apple Arcade" /></a>
-<a href="https://developer.apple.com/metal/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/metal/metal-64x64_2x.png" width="48" height="48" alt="Metal" /></a>
-<a href="https://developer.apple.com/documentation/scenekit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/scenekit/scenekit-128x128.png" width="48" height="48" alt="SceneKit" /></a>
-<a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" width="48" height="48" alt="HealthKit" /></a>
-<a href="https://user-images.githubusercontent.com/54872601/181689472-8f443ca9-4fa0-418b-b0d3-e0730883889a.png" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/54872601/181689472-8f443ca9-4fa0-418b-b0d3-e0730883889a.png" width="48" height="48" alt="Descrição Personalizada" /></a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" alt="Git" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
+</a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="48" height="48" alt="Figma" />
+</a>
+
+<!-- Web (HTML/CSS/JS) -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
+</a>
+
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="C#" />
+</a>
+
+<!-- SQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="48" height="48" alt="MySQL" />
+</a>
+
