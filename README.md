@@ -10,6 +10,6 @@ Currently pursuing a degree in Systems Analysis and Development, developing skil
 
 <p align="rigt">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,git,github,figma,css,html,js,python, mysql, cypress" />
+    <img src="https://skillicons.dev/icons?i=swift,git,github,figma,css,html,js,python,mysql,cypress"/>
   </a>
 </p>
